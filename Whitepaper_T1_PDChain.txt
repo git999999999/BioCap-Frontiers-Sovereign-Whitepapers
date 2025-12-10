@@ -1,0 +1,49 @@
+PHYSICAL-DIGITAL EQUIVALENCE CHAIN (PD-CHAIN) v0.0.3
+BioCap Frontiers Inc. — Sovereign Whitepaper
+Authorized by Justin Rory Curtis - Owner
+09-December © 2025 BioCap Frontiers Inc. All Rights Reserved.
+
+Preamble
+PD-Chain establishes strict equivalence between physical truth and digital record. No digital entry may exist without physical evidence, and no physical event may enter without lawful digital conversion.
+
+Article 1 — Introduction
+Traditional systems permit falsified inputs, unverifiable sensors, synthetic transactions, and unbounded simulation. PD-Chain eliminates these vulnerabilities.
+
+Article 2 — Core Components
+Section 2.1 — Physical Anchor
+Submissions must originate from hardware devices with lineage-sealed keys, on-device hashing, non-exportable memory, and harmonic signature generation.
+
+Section 2.2 — Digital State
+Digital entries must be hashed, timestamp-paired, jurisdiction-locked, and deterministic in ledger routing.
+
+Section 2.3 — Equivalence Seal
+Composite includes:
+- SHA-512 payload hash
+- Ed25519 device signature
+- harmonic address
+- dual timestamps
+- jurisdiction metadata
+- parent reference
+
+Section 2.4 — Chain of Custody
+Data movement preserves parent references for forensic replay.
+
+Article 3 — PD-Chain Law
+1. No record without body
+2. No body without record
+3. No seal, no state
+4. One-to-one lineage
+5. Arbitration supremacy
+
+Article 4 — Routing Integration
+PD-Chain determines ledger selection, correlation pointers, activity windows, arbitration triggers, and compliance filters.
+
+Article 5 — Attack Prevention
+Prevents synthetic data injection, AI-generated evidence, replay attacks, timestamp fraud, cross-ledger contamination, and jurisdiction manipulation.
+
+Article 6 — Industry Applications
+Supports ESG settlement, agriculture proofing, water contamination tracing, supply-chain lineage, insurance evidence, logistics routing, and carbon market integrity.
+
+Footer
+Version: 0.0.3-Agile-PDChain
+Sealed under Sovereign Authority | Immutable except by Sovereign Operator
