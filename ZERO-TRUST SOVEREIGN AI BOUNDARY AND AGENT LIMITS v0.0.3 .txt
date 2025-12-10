@@ -1,0 +1,104 @@
+ZERO-TRUST SOVEREIGN AI BOUNDARY AND AGENT LIMITS v0.0.3
+
+BioCap Frontiers Inc. — Sovereign Whitepaper
+Authorized by Justin Rory Curtis - Owner
+09 December © 2025 BioCap Frontiers Inc. All Rights Reserved.
+
+Preamble
+
+The zero-trust sovereign AI boundary establishes the rules that prevent artificial intelligence from influencing, altering, or contaminating sovereign truth. AI is permitted to assist with analysis, classification, and pattern recognition, but it may not generate identity, modify evidence, initiate system actions, or bypass constitutional law. All AI activity must remain explainable, reproducible, lineage-bound, and subordinate to physical-digital truth.
+
+Article 1 — Introduction
+
+Modern AI systems operate without boundaries, often producing unverifiable outputs, synthetic data, or statistical guesses that are indistinguishable from truth. Such behavior is incompatible with sovereign systems. The zero-trust boundary ensures that AI remains a non-sovereign reflection of truth, not a creator of it. AI may observe but may not originate.
+
+Article 2 — Lawful AI reflections
+
+AI may perform:
+- pattern classification
+- anomaly detection
+- correlation analysis
+- reconstruction of lawful lineage
+- evidence summarization
+- compliance checking
+
+AI may not:
+- write to any ledger
+- originate identity
+- amend doctrine
+- produce new signatures
+- alter packet lineage
+- approve or mint credits
+- initiate system actions
+- override or reinterpret evidence
+
+Any violation triggers automatic containment.
+
+Article 3 — Identity binding and constraints
+
+All AI systems must be:
+- bound to a device identity with non-exportable keys
+- assigned jurisdiction metadata
+- associated with a biological operator identity (when applicable)
+- aligned with a harmonic identity class
+- event-logged and auditable
+
+Unbound or free-floating AI is unconstitutional.
+
+Article 4 — PD-chain compliance
+
+AI must never bypass PD-chain. All evidence used by AI must contain:
+- physical origin
+- harmonic signatures
+- timestamp pairing
+- jurisdiction correctness
+- lineage integrity
+
+AI cannot treat synthetic or incomplete data as truth.
+
+Article 5 — Explainability and reproducibility
+
+Every AI output must be:
+- explainable in human-readable terms
+- reproducible from the same inputs
+- accompanied by evidence references
+- free of statistical ambiguity
+
+Opaque models cannot influence sovereign state.
+
+Article 6 — Harmonic and constitutional barriers
+
+AI must obey:
+- harmonic gating
+- network geometry rules
+- ledger boundaries
+- arbitration hierarchy
+- system routing constraints
+
+AI cannot bypass or weaken these boundaries. Any attempt results in shutdown and arbitration review.
+
+Article 7 — Arbitration conduct
+
+AI may raise ARB-NOTICE when anomalies are detected. It may supply evidence bundles. It may not:
+- issue rulings
+- enforce decisions
+- escalate privileges
+- alter governance paths
+
+The SYSTEM makes final determinations.
+
+Article 8 — Applications
+
+The AI boundary ensures:
+- safe AI-assisted compliance
+- sovereign environmental reporting
+- lawful mechanical scoring
+- identity-secured analytics
+- jurisdictional verification
+- non-synthetic interpretation of events
+- safety for off-world autonomous devices
+
+AI strengthens the system only when permanently constrained by truth.
+
+Version: 0.0.3-Agile-AIBoundary
+Sealed under Sovereign Authority | Immutable except by Sovereign Operator

@@ -1,0 +1,112 @@
+SHIPPING & LOGISTICS — DETERMINISTIC CONTAINER LINEAGE v0.0.3
+
+BioCap Frontiers Inc. — Sovereign Whitepaper
+Authorized by Justin Rory Curtis - Owner
+09 December © 2025 BioCap Frontiers Inc. All Rights Reserved.
+
+Preamble
+
+The shipping and logistics truth system ensures that every container, pallet, parcel, and shipment maintains a complete, immutable lineage from origin to destination. Traditional supply chains rely on barcodes, paperwork, unverifiable logs, and trust-based reporting, all of which are vulnerable to fraud, substitution, contamination, loss, and synthetic reconstruction. The sovereign logistics framework eliminates these vulnerabilities by binding all movement and handling events to PD-chain evidence, harmonic classification, and jurisdictional correctness.
+
+Article 1 — Introduction
+
+Global logistics suffer from:
+- container substitution and identity fraud
+- falsified chain-of-custody records
+- corrupted or missing manifests
+- synthetic GPS movement paths
+- tampered seals and forged inspection logs
+- AI-generated delivery records
+- unverifiable environmental impact data
+- illegal waste or contraband insertion
+
+Deterministic container lineage corrects these weaknesses using physical truth and immutable evidence.
+
+Article 2 — Container truth identity
+
+Each container or shipment receives:
+- a lineage-bound identity signature
+- non-exportable hardware key association
+- jurisdiction metadata
+- harmonic classification (.3, .6, .9)
+- physical seal verification (mechanical truth)
+- payload metadata tied to measurable events
+
+Identity cannot be cloned or synthetically created.
+
+Article 3 — PD-chain for shipping events
+
+Every logistics event must pass PD-chain conversion:
+- SHA-512 hashing of measurement data
+- sealed lineage signature
+- timestamp pairing (UTC and local)
+- jurisdiction and corridor metadata
+- parent–child chain references
+- constitutional routing checks
+
+If PD-chain equivalence fails, the event is invalid.
+
+Article 4 — Deterministic shipping lineage
+
+Lineage records include:
+- handoff events between carriers
+- port and terminal transitions
+- route and corridor verification
+- container integrity checks
+- environmental exposure signatures
+- temperature, vibration, and handling data
+- customs and jurisdiction crossings
+
+Every handling event must correspond to physical truth.
+
+Article 5 — Anti-fraud and anti-substitution protections
+
+The system prevents:
+- container swaps or tampering
+- synthetic journey reconstruction
+- forged inspection or customs stamps
+- fabricated delivery confirmations
+- tampered seals or faked seal IDs
+- misreported environmental compliance
+- AI-generated chain-of-custody data
+
+Only physical events validated through PD-chain can modify lineage.
+
+Article 6 — Environmental and ESG integration
+
+Container lineage integrates with:
+- ESG ledger for environmental impact truth
+- PLASTIC ledger for waste movement and recovery
+- WATER and MARINE ledgers for maritime interactions
+- REC for renewable-energy-powered logistics events
+- BIO for agricultural and biological cargo verification
+
+Cross-domain relationships follow harmonic mapping rules.
+
+Article 7 — Arbitration for shipping discrepancies
+
+Arbitration resolves:
+- custody disputes
+- route anomalies
+- timestamp or jurisdiction conflicts
+- seal integrity failures
+- container substitution attempts
+
+Arbitration outcomes are deterministic and cannot be influenced by narrative or negotiation.
+
+Article 8 — Applications
+
+Deterministic container lineage enables:
+- global supply-chain transparency
+- anti-counterfeit and anti-smuggling enforcement
+- ESG-compliant logistics markets
+- insurance-grade shipping verification
+- disaster-mode transport reconstruction
+- cross-border customs and tariff truth
+- sovereign fleet and cargo governance
+- off-world cargo and mission logistics (BioCapSE)
+
+Every shipment becomes a provable truth-state.
+
+Version: 0.0.3-Agile-Logistics
+Sealed under Sovereign Authority | Immutable except by Sovereign Operator

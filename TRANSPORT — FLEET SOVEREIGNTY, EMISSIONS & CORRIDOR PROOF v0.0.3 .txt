@@ -1,0 +1,108 @@
+TRANSPORT — FLEET SOVEREIGNTY, EMISSIONS & CORRIDOR PROOF v0.0.3
+
+BioCap Frontiers Inc. — Sovereign Whitepaper
+Authorized by Justin Rory Curtis - Owner
+09 December © 2025 BioCap Frontiers Inc. All Rights Reserved.
+
+Preamble
+
+The transport sovereignty truth system ensures lawful verification of movement, route integrity, emissions output, and operational authenticity for fleets, vehicles, aircraft, maritime vessels, and autonomous systems. Traditional transport frameworks rely on GPS logs, manually reported routes, synthetic emissions models, and unverifiable telematics. The sovereign transport ledger accepts only physical evidence captured through BioCapTS and allied devices, producing tamper-proof corridor proof and emissions truth.
+
+Article 1 — Introduction
+
+Transportation is essential to global logistics, trade, safety, and environmental compliance. Yet the sector is plagued by:
+- falsified route logs
+- synthetic GPS paths
+- manipulated odometer/engine data
+- unverifiable emissions reporting
+- AI-generated telematics
+- off-jurisdiction laundering of routes
+
+Sovereign transport eliminates these vulnerabilities using PD-chain, harmonic law, and mechanical truth.
+
+Article 2 — Corridor proof
+
+Corridor proof establishes:
+- the actual path traveled
+- the physical authenticity of motion
+- jurisdiction transitions along the route
+- timestamp and cadence correctness
+- vibration and harmonic signatures confirming motion
+- PD-chain sealing of every movement segment
+
+No synthetic or simulated route may enter the transport ledger.
+
+Article 3 — Fleet sovereignty
+
+Fleet sovereignty binds:
+- each vehicle to a sovereign identity class
+- each movement to a physical origin
+- each route to its measured harmonic path
+- each operator to BioCapES identity
+- each device to lineage-bound hardware
+- each emissions event to physical truth
+
+Fleet events must remain jurisdictionally lawful and lineage-complete.
+
+Article 4 — Emissions truth
+
+Emissions must be:
+- captured via physical sensors
+- supported by engine load, temperature, and RPM signatures
+- timestamp paired and harmonically classified
+- jurisdictionally aligned with local emissions law
+- PD-chain verified
+
+Synthetic, estimated, or modelled emissions values are rejected.
+
+Article 5 — Autonomous system accountability
+
+Autonomous fleets must:
+- bind motion signatures to verified hardware
+- log control signals with PD-chain sealing
+- classify every movement via harmonic identity rules
+- detect and quarantine synthetic or tampered sensor data
+- preserve full parent–child lineage for arbitration
+
+Autonomy cannot bypass truth.
+
+Article 6 — Fraud and attack prevention
+
+The transport system prevents:
+- GPS spoofing
+- odometer tampering
+- route reconstruction fraud
+- synthetic telematics
+- replay attacks on movement data
+- AI-generated motion profiles
+- emissions laundering
+- unauthorized cross-border corridor claims
+
+All truth must originate from the physical world.
+
+Article 7 — Multi-ledger alignment
+
+Transport truth integrates with:
+- ESG for emissions impact
+- PLASTIC for waste movement and logistics
+- REC for energy use and charging cycles
+- WATER and BIO for environmental corridor effects
+- TX for lawful financial settlement of transport operations
+
+All integration requires harmonic and constitutional validation.
+
+Article 8 — Applications
+
+Sovereign transport enables:
+- verified logistics and supply-chain truth
+- insurance-grade accident and route reconstruction
+- emissions compliance enforced by physical evidence
+- global corridor verification for trade
+- fraud-proof autonomous vehicle ecosystems
+- off-world navigation and mission logs (BioCapSE)
+- municipal and commercial fleet governance
+
+Transport becomes a domain of proven truth.
+
+Version: 0.0.3-Agile-Transport
+Sealed under Sovereign Authority | Immutable except by Sovereign Operator

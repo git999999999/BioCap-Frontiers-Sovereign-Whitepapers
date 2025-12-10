@@ -1,0 +1,101 @@
+HARMONIC IDENTITY AND ACTIVITY SCORING MODEL v0.0.3
+
+BioCap Frontiers Inc. — Sovereign Whitepaper
+Authorized by Justin Rory Curtis - Owner
+09 December © 2025 BioCap Frontiers Inc. All Rights Reserved.
+
+Preamble
+
+The harmonic identity and activity scoring model defines how the Agile Exchange evaluates lawful identity and measures physical activity under 3-6-9 harmonic law. This scoring model ensures that identity is proven, activity is real, and all participation remains anchored in measurable truth. The model prevents synthetic identity, simulated motion, and probabilistic interpretation, enabling a deterministic and constitutionally aligned evaluation of system behavior.
+
+Article 1 — Introduction
+
+Traditional scoring systems rely on statistical estimates, reputation, or economic weight. These approaches allow manipulation, forgery, synthetic participation, and bias. The harmonic scoring model removes these vulnerabilities by grounding identity and activity in physical origin, harmonic structure, and constitutional alignment. Scoring is never subjective; it is a mathematical classification of truth.
+
+Article 2 — Harmonic identity scoring
+
+Identity scoring evaluates:
+- biological authenticity
+- biometric signatures
+- device lineage integrity
+- jurisdiction and timestamp pairing
+- harmonic identity class (.3, .6, .9)
+- PD-chain equivalence proof
+
+Identity cannot be created, approximated, or simulated. Only identities aligned with harmonic law receive valid scoring.
+
+Article 3 — Activity scoring
+
+Activity scoring requires measurable, lawful physical activity such as:
+- torque changes
+- rotational deltas
+- vibration fingerprints
+- biomechanical movement
+- environmental deviation
+
+Activity must originate from a verified device and be sealed with PD-chain evidence. Synthetic activity receives a score of zero and triggers anomaly detection.
+
+Article 4 — Harmonic coherence
+
+Identity and activity must remain harmonically coherent. Coherence checks ensure:
+- cadence alignment
+- harmonic periodicity
+- lawful timing
+- correct identity-action correlation
+- proper jurisdictional mapping
+
+Breaks in coherence trigger arbitration and may invalidate scoring.
+
+Article 5 — Scoring thresholds and classification
+
+Scores are assigned according to:
+- harmonic class transitions
+- time-domain consistency
+- magnitude of lawful activity
+- lineage completeness
+- constitutional relevance
+
+The scoring system produces:
+- identity readiness state
+- activity authenticity grade
+- harmonic alignment index
+- arbitration flags when needed
+
+Article 6 — Synthetic detection and prevention
+
+The scoring model identifies and rejects:
+- AI-generated identity claims
+- synthetic or replayed activity
+- timestamp distortions
+- jurisdiction laundering
+- off-cadence events
+- manipulated routing attempts
+
+Detection is automatic and requires no probabilistic inference.
+
+Article 7 — Integration with PoAR and PD-chain
+
+The scoring model directly supports:
+- PoAR validator eligibility
+- PD-chain physical-digital equivalence checks
+- arbitration routing
+- ledger domain placement
+- device trust boundaries
+
+Identity and activity cannot influence consensus without lawful scoring.
+
+Article 8 — Applications
+
+The harmonic scoring model enables:
+- sovereign identity integrity
+- fraud-proof mechanical telemetry
+- environmental and ESG scoring
+- industrial compliance auditing
+- transport and fleet sovereignty
+- orbital mission authenticity
+- regenerative agriculture metrics
+
+Every score reflects truth, never probability.
+
+Version: 0.0.3-Agile-HarmonicScoring
+Sealed under Sovereign Authority | Immutable except by Sovereign Operator

@@ -1,0 +1,92 @@
+PHYSICAL–DIGITAL EQUIVALENCE CHAIN (PD-CHAIN) v0.0.3
+
+BioCap Frontiers Inc. — Sovereign Whitepaper
+Authorized by Justin Rory Curtis - Owner
+09 December © 2025 BioCap Frontiers Inc. All Rights Reserved.
+
+Preamble
+
+The Physical–Digital Equivalence Chain (PD-chain) establishes the rule that no digital event may exist without a lawful physical origin, and no physical event may enter the system without harmonically valid digital conversion. It ensures that physical truth and digital record remain inseparable. PD-chain eliminates synthetic states, unverifiable claims, and digital artifacts without origin, forming the backbone of sovereign truth within the Agile Exchange.
+
+Article 1 — Introduction
+
+Digital systems traditionally allow unverified inputs, synthetic sensor data, forged telemetry, replayed signals, and simulated events. These vulnerabilities break trust, enable fraud, and erode the connection between reality and digital representation. PD-chain restores this connection by requiring direct physical evidence for every digital entry and enforcing one-to-one lineage between physical action and digital record.
+
+Article 2 — Physical anchor
+
+Every accepted input must originate from a lawful hardware device with:
+- sealed private keys
+- non-exportable cryptographic memory
+- on-device hashing capability
+- harmonic signature generation
+- jurisdiction encoding
+- timestamp pairing (UTC and local)
+
+These requirements prevent forgery, tampering, and simulation. If a device cannot prove lineage or harmonic validity, its data is rejected.
+
+Article 3 — Digital state
+
+Digital records must be:
+- hashed using SHA-512
+- timestamp-paired
+- jurisdiction-locked
+- associated with a harmonic identity class
+- routed according to constitutional ledger boundaries
+
+Digital state must reflect physical state. If no physical origin exists, the digital record is invalid.
+
+Article 4 — Equivalence seal
+
+Each PD-chain entry includes:
+- SHA-512 payload hash
+- Ed25519 device lineage signature
+- harmonic address classification (.3, .6, .9)
+- dual timestamps (UTC and local)
+- jurisdiction metadata
+- parent reference chain
+
+The equivalence seal makes records tamper-evident and fully traceable.
+
+Article 5 — Chain of custody
+
+Every transformation preserves lineage. Parent references follow the data across ledgers, devices, and processes. This enables complete forensic replay of the system’s truth-state. Any break in lineage invalidates the record and triggers arbitration.
+
+Article 6 — Routing and interpretation
+
+PD-chain determines:
+- which ledger receives an event
+- how packets correlate to prior states
+- when arbitration must be invoked
+- applicability of compliance and jurisdiction
+- harmonic validity for routing
+
+Routing is deterministic and cannot be influenced by computation or stake.
+
+Article 7 — Attack prevention
+
+PD-chain prevents:
+- synthetic data injection
+- AI-generated evidence
+- replayed telemetry
+- timestamp manipulation
+- jurisdiction laundering
+- cross-ledger contamination
+- fabricated activity
+
+Synthetic information fails harmonic verification, lineage proof, or timestamp pairing.
+
+Article 8 — Applications
+
+PD-chain enables sovereign-grade truth systems across all sectors, including:
+- supply-chain authentication
+- environmental monitoring and ESG integrity
+- manufacturing lineage and quality assurance
+- insurance claim verification
+- mechanical authenticity (torque, RPM, rotation)
+- water and soil truth reporting
+- orbital telemetry and off-world operations
+
+Because PD-chain enforces truth at the boundary of physical and digital realms, it is the core mechanism that keeps the Agile Exchange aligned with reality.
+
+Version: 0.0.3-Agile-PDChain
+Sealed under Sovereign Authority | Immutable except by Sovereign Operator

@@ -1,0 +1,103 @@
+USER RIGHTS AND SOVEREIGN SAFETY v0.0.3
+
+BioCap Frontiers Inc. — Sovereign Whitepaper
+Authorized by Justin Rory Curtis - Owner
+09 December © 2025 BioCap Frontiers Inc. All Rights Reserved.
+
+Preamble
+
+User rights within the Agile Exchange are grounded in truth, identity, lawful sovereignty, and constitutional protection. Unlike digital platforms that treat users as data sources, analytics targets, or permissionless entities, the sovereign model guarantees that every participant is recognized as a biological identity with non-transferable rights. Sovereign safety ensures that no ledger, device, worker, agent, intelligence, or external party may violate these rights or compromise user protection.
+
+Article 1 — Introduction
+
+Digital systems today offer weak user rights governed by opaque policies, revocable permissions, synthetic identity, and platform-level authority. These architectures allow:
+- unauthorized data extraction
+- synthetic identity misuse
+- surveillance and AI profiling
+- forced arbitration without evidence
+- loss of access without lawful cause
+
+The sovereign model replaces platform privilege with constitutional user protection.
+
+Article 2 — Right to truth
+
+Every user has the right to:
+- truthful system behavior
+- truthful identity recognition
+- truthful ledger participation
+- truthful arbitration outcomes
+
+No synthetic or fabricated system state may override a user's lawful truth.
+
+Article 3 — Right to sovereign identity
+
+Identity rights include:
+- biological identity recognition
+- non-exportable identity keys
+- protection from impersonation
+- protection from synthetic identity creation
+- device-bound authentication through BioCapES
+- harmonically valid identity classification
+
+Identity cannot be altered, substituted, fabricated, or decontextualized.
+
+Article 4 — Right to privacy through constitutional separation
+
+User privacy is guaranteed through:
+- multi-ledger separation
+- constitutional routing rules
+- PD-chain isolation of evidence
+- jurisdiction-limited metadata
+- prohibition of synthetic aggregation
+
+No entity may aggregate user data across domains without lawful purpose.
+
+Article 5 — Right to safety from AI and synthetic agents
+
+Users are protected from:
+- AI-driven behavioral profiling
+- synthetic decision-making that affects rights
+- automated arbitration rulings without human truth
+- system manipulation through AI-generated evidence
+- synthetic identity crossover
+
+AI cannot override, reinterpret, or diminish user rights.
+
+Article 6 — Right to lawful access
+
+A user maintains the right to:
+- access constitutional documents
+- review their PD-chain evidence
+- audit their ledger entries
+- detect and dispute anomalies
+- access the arbitration engine when needed
+
+Access may not be revoked except through lawful arbitration.
+
+Article 7 — Right to dispute resolution
+
+Users are entitled to:
+- deterministic arbitration outcomes
+- evidence-based ruling
+- review of lineage and PD-chain
+- constitutional clarity
+- protection from synthetic claims
+- truth restoration when anomalies occur
+
+Users cannot be penalized without evidence.
+
+Article 8 — Applications
+
+User rights and sovereign safety apply to:
+- environmental and ESG reporting
+- financial participation and credit formation
+- transport and fleet sovereignty
+- industrial and mechanical systems
+- identity verification and access control
+- off-world mission communication (BioCapSE)
+- agricultural, water, and biological truth systems
+
+User rights are not permissions granted by a platform—they are constitutional truths.
+
+Version: 0.0.3-Agile-UserRights
+Sealed under Sovereign Authority | Immutable except by Sovereign Operator
